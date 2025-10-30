@@ -1,0 +1,10 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - pypdf2=3.0.1
+  - python=3.11.*
+  - snowflake-ml-python=1.16.0
+  - snowflake-snowpark-python=
+  - snowflake.core=1.8.0
+  - streamlit=
